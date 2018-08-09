@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BLE NeoPixel Controller</string>
+    <string name="button_lights">Toggle Lights</string>
+    <string name="button_recover_values">Recover Previous Values</string>
+</resources>
